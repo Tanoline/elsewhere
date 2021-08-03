@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main()//Ö÷º¯Êý
+int main()
 {
     printf("hello j\n");
-	return 0;//·µ»Ø
+	return 0;
 }
